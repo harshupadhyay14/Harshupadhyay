@@ -29,7 +29,10 @@ Real-time financial news analysis powered by Groq LLaMA
 📊 Interactive Flask dashboard with Plotly charts
 🚀 Deployed on Render (FastAPI + Flask)
 
-🌐 Live Demo | 📁 GitHub
+🌐 Live Demo - https://ai-financial-news-analyser-frontend.onrender.com
+📁 GitHub - https://github.com/harshupadhyay14/AI-Financial-News-Analyser.git
+
+# ---------------------------------------------------------
 
 
 
